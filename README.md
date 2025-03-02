@@ -31,7 +31,7 @@ I am currently looking for an **apprenticeship in software development** (prefer
 #### **Design & Other Tools**  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)  
 
-# 🔹 GitHub Stats:
+### 🔹 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Julien-Devos&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=Julien-Devos&theme=dracula&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Julien-Devos&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
