@@ -9,9 +9,6 @@
 I am passionate about **problem-solving, software development, and IT systems**.  
 I spent several years studying **Computer Science** at UCLouvain in Belgium, where I developed strong skills in multiple programming languages and technologies. I also worked on several projects, which you can explore on my GitHub page.
 
-#### 📢 Open to Work!  
-I am currently looking for an **apprenticeship in software development** (preferably in backend, full-stack, or mobile development) or **IT infrastructure**. If you are hiring or know of an opportunity, feel free to reach out!
-
 ---
 
 ### 📫 Let's Connect!  
